@@ -1,7 +1,7 @@
 export default {
   today: 'ਅੱਜ',
   now: 'ਹੁਣ',
-  backToToday: ਅੱਜ ਤੇ ਵਾਪਸ ਜਾਓ',
+  backToToday: 'ਅੱਜ ਤੇ ਵਾਪਸ ਜਾਓ',
   ok: 'ਠੀਕ',
   clear: 'ਸਾਫ',
   month: 'ਮਹੀਨਾ',
